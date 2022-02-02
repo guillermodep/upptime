@@ -8,7 +8,7 @@ sites:
   - name: Pichincha Cuenta Simple
     url: https://cuentasimple.pichincha.com/electronico?utm_source=portal&utm_medium=referral&utm_campaign=cuentasimple&utm_content=btn_home_abrir_cuenta
   - name: Pichincha Banca Web
-    url: https://bancaweb.pichincha.com/pichincha/login#/
+    url: https://bancaweb.pichincha.com/
   - name: Pichincha Cash Management
     url: https://www.pichincha.com/loginNR/#/loginNR/auth/login
   - name: Pichincha Tarjetas
