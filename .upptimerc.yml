@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Pichincha Portal Inicio -
     url: https://inicio.pichincha.com/portal/inicio
-  - name: Pichincha Cuenta Simple
+  - name: Pichincha Cuenta Simple -
     url: https://cuentasimple.pichincha.com/electronico?utm_source=portal&utm_medium=referral&utm_campaign=cuentasimple&utm_content=btn_home_abrir_cuenta
   - name: Pichincha Banca Web
     url: https://bancaweb.pichincha.com/pichincha/login#/
