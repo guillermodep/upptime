@@ -40,7 +40,7 @@
     "url": "https://bancaweb.pichincha.com/",
     "icon": "https://favicons.githubusercontent.com/bancaweb.pichincha.com",
     "slug": "pichincha-banca-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 580,
     "timeDay": 559,
-    "timeWeek": 564,
+    "timeWeek": 562,
     "timeMonth": 577,
     "timeYear": 580,
     "dailyMinutesDown": {}
