@@ -112,17 +112,17 @@
     "url": "https://4u.pichincha.com/auth/ingreso",
     "icon": "https://favicons.githubusercontent.com/4u.pichincha.com",
     "slug": "pichincha-4-u-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 180,
-    "timeWeek": 347,
-    "timeMonth": 264,
-    "timeYear": 360,
+    "time": 601,
+    "timeDay": 10277,
+    "timeWeek": 2851,
+    "timeMonth": 856,
+    "timeYear": 601,
     "dailyMinutesDown": {}
   }
 ]
