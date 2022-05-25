@@ -17,6 +17,8 @@ sites:
     url: https://creditoenlinea.pichincha.com/autogestion/login/?utm_source=portal&utm_medium=referral&utm_campaign=preciso&utm_content=btn_acceso_preciso
   - name: Pichincha 4U Portal
     url: https://4u.pichincha.com/auth/ingreso
+  - name: Ilolay German
+    url: https://ilolay.com.ar/es
 
 assignees:
   - guillermodep
