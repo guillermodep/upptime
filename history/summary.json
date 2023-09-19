@@ -32,7 +32,7 @@
     "timeDay": 312,
     "timeWeek": 225,
     "timeMonth": 256,
-    "timeYear": 287,
+    "timeYear": 286,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 678,
     "timeWeek": 869,
     "timeMonth": 732,
-    "timeYear": 800,
+    "timeYear": 801,
     "dailyMinutesDown": {}
   },
   {
@@ -68,7 +68,7 @@
     "timeDay": 278,
     "timeWeek": 385,
     "timeMonth": 522,
-    "timeYear": 676,
+    "timeYear": 677,
     "dailyMinutesDown": {}
   },
   {
@@ -112,16 +112,16 @@
     "url": "https://4u.pichincha.com/auth/ingreso",
     "icon": "https://icons.duckduckgo.com/ip3/4u.pichincha.com.ico",
     "slug": "pichincha-4-u-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 462,
-    "timeDay": 8545,
-    "timeWeek": 4995,
-    "timeMonth": 2009,
+    "timeDay": 7623,
+    "timeWeek": 4679,
+    "timeMonth": 1964,
     "timeYear": 498,
     "dailyMinutesDown": {}
   },
@@ -140,7 +140,7 @@
     "timeDay": 197,
     "timeWeek": 386,
     "timeMonth": 426,
-    "timeYear": 641,
+    "timeYear": 642,
     "dailyMinutesDown": {}
   }
 ]
