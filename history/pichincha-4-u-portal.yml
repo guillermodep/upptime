@@ -1,7 +1,7 @@
 url: https://4u.pichincha.com/auth/ingreso
-status: down
-code: 502
-responseTime: 17176
-lastUpdated: 2023-09-24T20:14:48.613Z
+status: up
+code: 200
+responseTime: 236
+lastUpdated: 2023-09-24T20:23:35.735Z
 startTime: 2022-02-02T03:34:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
