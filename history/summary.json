@@ -68,7 +68,7 @@
     "timeDay": 423,
     "timeWeek": 479,
     "timeMonth": 509,
-    "timeYear": 676,
+    "timeYear": 677,
     "dailyMinutesDown": {}
   },
   {
@@ -112,17 +112,17 @@
     "url": "https://4u.pichincha.com/auth/ingreso",
     "icon": "https://icons.duckduckgo.com/ip3/4u.pichincha.com.ico",
     "slug": "pichincha-4-u-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1772,
-    "timeDay": 7883,
-    "timeWeek": 7969,
-    "timeMonth": 6622,
-    "timeYear": 2150,
+    "time": 1800,
+    "timeDay": 8044,
+    "timeWeek": 8046,
+    "timeMonth": 6696,
+    "timeYear": 2181,
     "dailyMinutesDown": {}
   },
   {
