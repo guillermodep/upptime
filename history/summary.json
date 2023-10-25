@@ -22,7 +22,7 @@
     "url": "https://cuentasimple.pichincha.com/electronico?utm_source=portal&utm_medium=referral&utm_campaign=cuentasimple&utm_content=btn_home_abrir_cuenta",
     "icon": "https://icons.duckduckgo.com/ip3/cuentasimple.pichincha.com.ico",
     "slug": "pichincha-cuenta-simple",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -121,7 +121,7 @@
     "time": 2044,
     "timeDay": 221,
     "timeWeek": 194,
-    "timeMonth": 3644,
+    "timeMonth": 3448,
     "timeYear": 2374,
     "dailyMinutesDown": {}
   },
