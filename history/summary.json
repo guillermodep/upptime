@@ -130,17 +130,17 @@
     "url": "https://ilolay.com.ar/es",
     "icon": "https://icons.duckduckgo.com/ip3/ilolay.com.ar.ico",
     "slug": "ilolay-german",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 594,
-    "timeDay": 303,
-    "timeWeek": 451,
-    "timeMonth": 593,
-    "timeYear": 635,
+    "time": 595,
+    "timeDay": 295,
+    "timeWeek": 430,
+    "timeMonth": 584,
+    "timeYear": 634,
     "dailyMinutesDown": {}
   }
 ]
