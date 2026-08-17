@@ -1,7 +1,7 @@
 url: https://ilolay.com.ar/es
-status: up
-code: 200
-responseTime: 1736
-lastUpdated: 2026-08-17T13:33:18.452Z
+status: down
+code: 429
+responseTime: 664
+lastUpdated: 2026-08-17T16:50:19.548Z
 startTime: 2022-05-25T14:27:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
