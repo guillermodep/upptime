@@ -50,7 +50,7 @@
     "timeDay": 45,
     "timeWeek": 67,
     "timeMonth": 42,
-    "timeYear": 127,
+    "timeYear": 126,
     "dailyMinutesDown": {}
   },
   {
@@ -66,8 +66,8 @@
     "uptimeYear": "100.00%",
     "time": 427,
     "timeDay": 764,
-    "timeWeek": 647,
-    "timeMonth": 612,
+    "timeWeek": 644,
+    "timeMonth": 601,
     "timeYear": 476,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 188,
     "timeDay": 249,
     "timeWeek": 177,
-    "timeMonth": 159,
+    "timeMonth": 151,
     "timeYear": 153,
     "dailyMinutesDown": {}
   },
@@ -121,8 +121,8 @@
     "time": 139,
     "timeDay": 35,
     "timeWeek": 45,
-    "timeMonth": 41,
-    "timeYear": 124,
+    "timeMonth": 42,
+    "timeYear": 123,
     "dailyMinutesDown": {}
   },
   {
@@ -130,16 +130,16 @@
     "url": "https://ilolay.com.ar/es",
     "icon": "https://icons.duckduckgo.com/ip3/ilolay.com.ar.ico",
     "slug": "ilolay-german",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1095,
-    "timeDay": 1585,
-    "timeWeek": 1492,
-    "timeMonth": 1261,
+    "timeDay": 1486,
+    "timeWeek": 1426,
+    "timeMonth": 1257,
     "timeYear": 1168,
     "dailyMinutesDown": {}
   }
