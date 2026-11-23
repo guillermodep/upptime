@@ -58,17 +58,17 @@
     "url": "https://www.pichincha.com/loginNR/#/loginNR/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/www.pichincha.com.ico",
     "slug": "pichincha-cash-management",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 499,
-    "timeWeek": 569,
-    "timeMonth": 759,
-    "timeYear": 537,
+    "time": 505,
+    "timeDay": 423,
+    "timeWeek": 546,
+    "timeMonth": 747,
+    "timeYear": 536,
     "dailyMinutesDown": {}
   },
   {
@@ -139,7 +139,7 @@
     "time": 1116,
     "timeDay": 916,
     "timeWeek": 943,
-    "timeMonth": 1071,
+    "timeMonth": 1061,
     "timeYear": 1184,
     "dailyMinutesDown": {}
   }
