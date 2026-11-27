@@ -1,7 +1,7 @@
 url: https://www.pichincha.com/loginNR/#/loginNR/auth/login
-status: up
-code: 200
-responseTime: 694
-lastUpdated: 2026-11-27T04:44:06.949Z
+status: down
+code: 403
+responseTime: 86
+lastUpdated: 2026-11-27T11:33:29.616Z
 startTime: 2022-02-02T00:30:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
